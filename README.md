@@ -84,10 +84,11 @@ Key Takeaways:
 4. This analysis paves the way for optimizing agricultural practices and improving overall productivity.
 5. If you want, I can help you customize the content further or create a final, polished version of the presentation. Let me know!
 
-Live Dashboard :
-A snapshot of the dashboard with filters for State, Season, and Crop visible.
-Highlight key metrics such as the production trends of top crops.
-Showcase an example of drilling down into a specific state or crop for deeper analysis.
+Live Dashboard:
+
+1. A snapshot of the dashboard with filters for State, Season, and Crop visible.
+2. Highlight key metrics such as the production trends of top crops.
+3. Showcase an example of drilling down into a specific state or crop for deeper analysis.
 ![Screenshot 2025-02-09 012230](https://github.com/user-attachments/assets/dc70c2d3-4787-46ab-af67-fb5030e92146)
 
 ![Screenshot 2025-02-09 012958](https://github.com/user-attachments/assets/c88572e6-7b81-4ef7-9115-967c624fa99e)
